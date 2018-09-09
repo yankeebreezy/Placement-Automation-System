@@ -1,0 +1,14 @@
+list of tables
+
+1. admin
+
+2. activity(only 1 field: activity)
+
+3. student( fields: name,fname,regno,dept,yop,dob,gender,padd,landline,mobno,emailid,xstd,school,board,yop1,xiistd,school1,board1,yop2,pdip,colg,uni,yopp,yop3,ugt,pgt,nostarr,nohistarr,attempt,medium,quota,stay,break,exp,country)
+
+4. login(2 fields: username and password)
+
+5. placement (cname,name,branch,salary,year)
+
+6. recruiter (only 1 fields: company )
+ 

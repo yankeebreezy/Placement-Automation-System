@@ -1,0 +1,4 @@
+1. create database for as per given in file tables.
+2. install the local host server and copy the file into the local host and run.
+
+n for any query feel free to contact.
